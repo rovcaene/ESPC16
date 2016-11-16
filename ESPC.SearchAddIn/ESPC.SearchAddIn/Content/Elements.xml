@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" ReplaceContent="TRUE" />
+    <File Path="Content\App.Part.css" Url="Content/App.Part.css" ReplaceContent="TRUE" />
+    <File Path="Content\metro.css" Url="Content/metro.css" ReplaceContent="TRUE" />
+    <File Path="Content\metro-colors.css" Url="Content/metro-colors.css" ReplaceContent="TRUE" />
+    <File Path="Content\Results.css" Url="Content/Results.css" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

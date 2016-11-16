@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Display Templates" Path="Display Templates" Url="_catalogs/masterpage/Display Templates">
+    <File Path="ESPC\Content Web Parts\fonts\fontawesome-webfont.woff" Url="ESPC/Content Web Parts/fonts/fontawesome-webfont.woff" ReplaceContent="TRUE" Type="GhostableInLibrary" />
+    <File Path="ESPC\Content Web Parts\fonts\fontawesome-webfont.woff2" Url="ESPC/Content Web Parts/fonts/fontawesome-webfont.woff2" ReplaceContent="TRUE" Type="GhostableInLibrary" />
+    <File Path="ESPC\Content Web Parts\js\cards.js" Url="ESPC/Content Web Parts/js/cards.js" ReplaceContent="TRUE" Type="GhostableInLibrary" />
+    <File Path="ESPC\Content Web Parts\js\jquery-2.1.3.min.js" Url="ESPC/Content Web Parts/js/jquery-2.1.3.min.js" ReplaceContent="TRUE" Type="GhostableInLibrary" />
+    <File Path="ESPC\Content Web Parts\style\bootstrap.min.css" Url="ESPC/Content Web Parts/style/bootstrap.min.css" ReplaceContent="TRUE" Type="GhostableInLibrary" />
+    <File Path="ESPC\Content Web Parts\style\font-awesome.min.css" Url="ESPC/Content Web Parts/style/font-awesome.min.css" ReplaceContent="TRUE" Type="GhostableInLibrary" />
+    <File Path="ESPC\Content Web Parts\style\martial-cards.css" Url="ESPC/Content Web Parts/style/martial-cards.css" ReplaceContent="TRUE" Type="GhostableInLibrary" />
+    <File Path="ESPC\Search\Item_Contact.js" Url="ESPC/Search/Item_Contact.js" ReplaceContent="TRUE" />
+    <File Path="ESPC\Content Web Parts\Control_Cards.js" Url="ESPC/Content Web Parts/Control_Cards.js" ReplaceContent="TRUE" />
+    <File Path="ESPC\Content Web Parts\Item_Card.js" Url="ESPC/Content Web Parts/Item_Card.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

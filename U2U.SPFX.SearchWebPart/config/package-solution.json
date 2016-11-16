@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "U2U SPFX Web parts",
+    "id": "cb67ccaa-abb1-4bb6-a621-fb4773734ecd",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "u2u.search.spapp"
+  }
+}

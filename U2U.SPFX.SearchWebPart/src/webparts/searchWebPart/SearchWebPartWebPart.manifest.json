@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "3e807d9a-a2c4-43b8-9048-7dbfd04517cd",
+  "componentType": "WebPart",
+  "version": "1.0.0",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "3e807d9a-a2c4-43b8-9048-7dbfd04517cd",
+    "group": { "default": "U2U SPFX Webparts" },
+    "title": { "default": "U2U Search Webpart" },
+    "description": { "default": "Query SharePoint using the SharePoint Framework" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "instruction": "Modify the query through the web part properties",
+      "query":"*"
+    }
+  }]
+}

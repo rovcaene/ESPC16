@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="057eee7e-bd48-4579-a5d6-20bf626bd48a" 
+        solutionId="057eee7e-bd48-4579-a5d6-20bf626bd48a" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="ESPC.SearchAddIn"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="2662c608-4397-4f81-91a7-50082bbf6852" />
+  </features>
+</package>

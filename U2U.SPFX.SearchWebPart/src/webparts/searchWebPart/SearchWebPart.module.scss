@@ -1,0 +1,32 @@
+.searchWebPart {
+  .title{
+    font-size: 2em;
+  }
+
+  .results{
+    .resultslabel{
+      color:#aaa;
+    }
+  }
+
+  .instructions{
+    color:#ce4b1f;
+    margin-bottom: 30px;
+  }
+
+  [class*='ms-DocumentCard'] {
+    float: left;
+    margin: 0.5em;
+  }
+
+  [class='ms-DocumentCardActivity']{
+    clear:left;
+  }
+  [class='ms-DocumentCardLocation']{
+    clear:left;
+  }
+  [class='ms-Spinner'] {
+  width: 7em;
+  margin: 0 auto;
+  }
+}

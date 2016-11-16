@@ -1,0 +1,10 @@
+﻿/* Results page styles */
+#s4-titlerow {
+  display: none !important;
+}
+#titlerow {
+  display: none !important;
+}
+#s4-ribbonrow {
+  display: none;
+}
